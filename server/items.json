@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Backpack",
+        "price": "109",
+        "description": "Your perfect pack for everyday use and walks in the forest",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": "3.9"
+    },
+    {
+        "title": "Slim Fit T-Shirts ",
+        "price": "22",
+        "description": "Slim-fitting style",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "rating": "4.1"
+    },
+    {
+        "title": "Mens Cotton Jacket",
+        "price": "55",
+        "description": "great outerwear jackets for Spring/Autumn/Winter",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "rating": "4.7"
+    },
+    {
+        "title": "Chain Bracelet",
+        "price": "695",
+        "description": "Wear facing inward to be bestowed with love and abundance",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "rating": "4.6"
+    },
+    {
+        "title": "Mens Casual",
+        "price": "15",
+        "description": "The color could be slightly different between on the screen and in practice",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "rating": "2.1"
+    },
+    {
+        "title": "Solid Gold Petite Micropave",
+        "price": "168",
+        "description": "Satisfaction Guaranteed",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "rating": "3.9"
+    }
+]
